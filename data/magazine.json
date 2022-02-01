@@ -1,0 +1,27 @@
+[
+    {
+      "serialNumber": "Magazine 1",
+      "name": "Magazine1",
+      "count": 0,
+      "photo": "magazineFace.PNG",
+      "photo2": "magphoto.jpg",
+      "content": "Энэ сэтгүүлээр"
+    },
+    {
+      "serialNumber": "Magazine 2",
+      "name": "Magazine2",
+      "count": 0,
+      "photo": "magazineFace.PNG",
+      "photo2": "magphoto.jpg",
+      "content": "Энэ сэтгүүлээр 2 "
+    },
+    {
+      "serialNumber": "Magazine 3",
+      "name": "Magazine3",
+      "count": 0,
+      "photo": "magazineFace.PNG",
+      "photo2": "magphoto.jpg",
+      "content": "Энэ сэтгүүлээр 3"
+    }
+  ]
+  

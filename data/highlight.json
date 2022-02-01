@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Онцлох 1",
+      "count": 0,
+      "photo": "Special-1.png",
+      "content": "Онцлох 1 мэдээ",
+      "highlightCat": "61f8d99f753d0f3f05980647"
+    },
+    {
+        "name": "Онцлох 2",
+        "count": 0,
+        "photo": "Special-2.png",
+        "content": "Онцлох 2 мэдээ",
+        "highlightCat": "61f8d9a7753d0f3f0598064b"
+    },
+    {
+        "name": "Онцлох 3",
+        "count": 0,
+        "photo": "Special-3.png",
+        "content": "Онцлох 3 мэдээ",
+        "highlightCat": "61f8d9a9753d0f3f0598064d"
+    }
+  ]
+  

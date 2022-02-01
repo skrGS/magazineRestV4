@@ -1,0 +1,27 @@
+[
+    {
+      "serialNumber": "banner 1",
+      "name": "Banner1",
+      "count": 0,
+      "photo": "banner-1.png",
+      "photo2": "1.png",
+      "content": "Энэ сэтгүүлээр"
+    },
+    {
+      "serialNumber": "banner 2",
+      "name": "Banner2",
+      "count": 0,
+      "photo": "banner-2.png",
+      "photo2": "2.png",
+      "content": "Энэ сэтгүүлээр 2 "
+    },
+    {
+      "serialNumber": "banner 3",
+      "name": "Banner3",
+      "count": 0,
+      "photo": "banner-3.png",
+      "photo2": "3.png",
+      "content": "Энэ сэтгүүлээр 3"
+    }
+  ]
+  

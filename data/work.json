@@ -1,0 +1,25 @@
+{
+    "_id": {
+        "$oid": "61ea7c1a229cdf33bfde42c7"
+    },
+    "photo": "ihelp.jpg",
+    "name": "Novelist \"ХХК\"",
+    "email": "info@ihelp.mn",
+    "phoneNumber": "77555255",
+    "work1": "Front-end (Developer)",
+    "work2": "Back-end (Developer)",
+    "work3": "Нягтлан",
+    "work4": "Зураглаач",
+    "work5": "Хуульч",
+    "work6": "Mobile хөгжүүлэгч",
+    "work7": "0",
+    "work8": "0",
+    "work9": "0",
+    "createUser": {
+        "$oid": "5ea015a84448022f50c58be5"
+    },
+    "createdAt": {
+        "$date": "2022-01-21T09:25:46.901Z"
+    },
+    "__v": 0
+}

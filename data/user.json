@@ -1,0 +1,23 @@
+[
+  {
+    "role": "admin",
+    "_id": "5ea015a84448022f50c58be5",
+    "phone": "97014400",
+    "email": "admin@gmail.com",
+    "password": "1234"
+  },
+  {
+    "role": "operator",
+    "_id": "5ea015cec0f5e551d8d1615d",
+    "phone": "88110401",
+    "email": "op@gmail.com",
+    "password": "1234"
+  },
+  {
+    "role": "user",
+    "_id": "5ea3e83bf932ea3944956bf9",
+    "phone": "99110401",
+    "email": "user@gmail.com",
+    "password": "1234"
+  }
+]
