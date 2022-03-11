@@ -3,28 +3,26 @@ const { transliterate, slugify } = require("transliteration");
 
 const SpecialSchema = new mongoose.Schema(
   {
-    name: {
-      type: String,
-      trim: true,
-      maxlength: [250, " нэрний урт дээд тал нь 250 тэмдэгт байх ёстой."],
-    },
-    photo: {
-      type: String,
-      default: "no-photo.jpg",
-    },
     count: {
       type: Number,
       default: 0,
     },
-    content: {
+    // Face
+    facePhoto: {
+      type: String,
+      default: "no-photo.jpg",
+    },
+    faceTitle: {
       type: String,
       trim: true,
-      maxlength: [5000, " нэрний урт дээд тал нь 20 тэмдэгт байх ёстой."],
+    },
+    faceContent: {
+      type: String,
+      trim: true,
     },
     title: {
       type: String,
       trim: true,
-      maxlength: [5000, " нэрний урт дээд тал нь 20 тэмдэгт байх ёстой."],
     },
 
     createUser: {
